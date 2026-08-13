@@ -1,7 +1,4 @@
-```markdown
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mahammad+Jafarli+%F0%9F%91%8B;Backend+Developer+%7C+C%23+%2F+.NET;Hackathon+Builder+%F0%9F%9A%80;" alt="Typing SVG" />
-</p>
+&lt;p align="center"&gt;&lt;img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mahammad+Jafarli+%F0%9F%91%8B;Backend+Developer+%7C+C%23+%2F+.NET;Hackathon+Builder+%F0%9F%9A%80;" alt="Typing SVG" /&gt;&lt;/p&gt;
 
 ---
 
@@ -20,7 +17,6 @@ Backend developer studying Information Technology at **Azerbaijan Technical Univ
 ## 🔭 Currently Working On
 
 ### [DevJourney](https://github.com/Jafarli-Mahammad/DevJourney) — Backend Developer
-
 A platform for running **competitions and hackathons**. Currently in active development.
 
 **The product:**
@@ -72,8 +68,7 @@ A platform for running **competitions and hackathons**. Currently in active deve
 ## 💼 Featured Projects
 
 ### 🎓 [Maarif.az](https://github.com/Jafarli-Mahammad/Maarif.az) — Learning Management System
-
-> *Solo Backend Developer | .NET 8, EF Core, Docker, Azure SQL | [Live Demo](https://maarif-az.onrender.com)*
+&gt; *Solo Backend Developer | .NET 8, EF Core, Docker, Azure SQL | [Live Demo](https://maarif-az.onrender.com)*
 
 - Architected an enterprise LMS using **Clean/Onion Architecture** and **CQRS (MediatR)** across 6 decoupled layers
 - Engineered a soft-delete strategy with custom EF Core extensions and SQL Server filtered unique indexes
@@ -84,8 +79,7 @@ A platform for running **competitions and hackathons**. Currently in active deve
 ---
 
 ### 🎧 [EarsDrop](https://github.com/Jafarli-Mahammad/EarsDrop) — Media Downloader
-
-> *Desktop Application | .NET 10, Avalonia UI, yt-dlp, FFmpeg*
+&gt; *Desktop Application | .NET 10, Avalonia UI, yt-dlp, FFmpeg*
 
 - Cross-platform desktop app for downloading and converting online media to local audio/video files
 - Clipboard monitoring, concurrent download queues, metadata enrichment via MusicBrainz
@@ -94,8 +88,7 @@ A platform for running **competitions and hackathons**. Currently in active deve
 ---
 
 ### 🛒 [NFT-Marketplace](https://github.com/Jafarli-Mahammad/NFT-Marketplace) — Full-Stack Marketplace
-
-> *Full-Stack Developer | JavaScript, HTML/CSS, ASP.NET MVC, SQL Server*
+&gt; *Full-Stack Developer | JavaScript, HTML/CSS, ASP.NET MVC, SQL Server*
 
 - Built a complete NFT marketplace from scratch with custom frontend and backend — no AI assistance, fully manual implementation
 - Implemented user authentication, product listings, wallet integration logic, and transaction flows
@@ -104,8 +97,7 @@ A platform for running **competitions and hackathons**. Currently in active deve
 ---
 
 ### 🛡️ VEXOR — AI Phishing Detection Platform
-
-> *Build with AI Hackathon — Holberton School · March 2026*
+&gt; *Build with AI Hackathon — Holberton School · March 2026*
 
 - Built the first localized cybersecurity platform for Azerbaijan targeting phishing threats
 - Used **Groq LLaMA 3.3 70B** and **DistilBERT** for real-time threat detection
@@ -114,8 +106,7 @@ A platform for running **competitions and hackathons**. Currently in active deve
 ---
 
 ### 📊 SEOmentor — AI SEO Roadmap Generator
-
-> *Cursor Hackathon Baku · February 2026*
+&gt; *Cursor Hackathon Baku · February 2026*
 
 - Full-stack SEO analysis tool generating 30-day execution roadmaps from live site crawls
 - Built with **React 19**, **Claude Sonnet**, **FastAPI**, and **BeautifulSoup4**
@@ -125,27 +116,12 @@ A platform for running **competitions and hackathons**. Currently in active deve
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jafarli-Mahammad&show_icons=true&theme=tokyonight&hide_border=true" alt="Mahammad's GitHub Stats" />
-</p>
+&lt;p align="center"&gt;&lt;img src="https://github-readme-stats.vercel.app/api?username=Jafarli-Mahammad&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /&gt;&lt;/p&gt;
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jafarli-Mahammad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+&lt;p align="center"&gt;&lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jafarli-Mahammad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /&gt;&lt;/p&gt;
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/jafarli-mahammad">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jafarli.mahammad.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/Jafarli-Mahammad">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-```
+&lt;p align="center"&gt;&lt;a href="https://linkedin.com/in/jafarli-mahammad"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /&gt;&lt;/a&gt; &lt;a href="mailto:jafarli.mahammad.dev@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /&gt;&lt;/a&gt; &lt;a href="https://github.com/Jafarli-Mahammad"&gt;&lt;img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /&gt;&lt;/a&gt;&lt;/p&gt;
